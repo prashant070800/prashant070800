@@ -7,19 +7,19 @@
   <img src=https://komarev.com/ghpvc/?username=prashant070800>
 </p>
 
-<a href="https://discord.gg/FJK4zuHtrm">
+<!-- <a href="https://discord.gg/FJK4zuHtrm">
   <img align="left" alt="Maneesh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.kaggle.com/maneesh99">
   <img align="left" alt="Maneesh's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
-<a href="https://twitter.com/maneesh060">
+</a> -->
+<!-- <a href="https://twitter.com/maneesh060">
   <img align="left" alt="Maneesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/maneesh06">
+</a> -->
+<a href="https://www.linkedin.com/in/prashant-singh-830667183/">
   <img align="left" alt="Maneesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/maneesh0607">
+<a href="https://www.instagram.com/prashant070800">
   <img align="left" alt="Maneesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="prashant070800.com">
