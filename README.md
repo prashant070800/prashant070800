@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/prashant-singh-830667183/">
   <img align="left" alt="Maneesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/prashant070800">
+<a href="https://www.instagram.com/prashant010798">
   <img align="left" alt="Maneesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="prashant070800.com">
@@ -32,9 +32,9 @@
 
 
 
-I'm [Maneesh](https://www.linkedin.com/in/maneesh06), pursuing B.Tech in Electronics and Communication. I am passionate about technology and in its advancement for the betterment of the society. I am an Artificial Intelligence, Machine learning and Deep Learning enthusiast. Now working some different and advance project of Artificial Intelligence and Machine Learning.
+I'm [Prashant](https://www.linkedin.com/in/prashant-singh-830667183/), pursuing B.Tech in Electronics and Communication. I am passionate about technology and in its advancement for the betterment of the society. I am an Embedded, and software engineering enthusiast. Now working some different and advance project of software development.
 
-I believe that there is always something to learn, and with AI rapid pace, there is always something new!. I am always attracted to Technology and its impact on our lives which makes me more passionate and motivates me to learn more from it.
+I believe that there is always something to learn, there is always something new!. I am always attracted to Technology and its impact on our lives which makes me more passionate and motivates me to learn more from it.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
