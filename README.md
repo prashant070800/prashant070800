@@ -17,13 +17,13 @@
   <img align="left" alt="Maneesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/prashant-singh-830667183/">
-  <img align="left" alt="Maneesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Prashant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/prashant010798">
-  <img align="left" alt="Maneesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="prashant070800.com">
-  <img align="left" alt="Maneesh's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Prashant's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 
@@ -36,7 +36,7 @@ I'm [Prashant](https://www.linkedin.com/in/prashant-singh-830667183/), pursuing 
 
 I believe that there is always something to learn, there is always something new!. I am always attracted to Technology and its impact on our lives which makes me more passionate and motivates me to learn more from it.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 * 🔭 I’m currently working on Machine Learning project
@@ -69,7 +69,7 @@ I believe that there is always something to learn, there is always something new
 </a>
 <a href="https://github.com/maneesh06/maneesh06">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maneesh06&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maneesh's GitHub Stats" width="58%" />
-</a>
+</a> -->
 
 
 <br>
